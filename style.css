@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-shadow: border-box;
+
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.container{
+	height: 350px;
+	width: 250px;
+	box-shadow: 0px 0px 20px grey;
+	border-radius: 30px;
+	padding: 20px;
+}
